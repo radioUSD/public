@@ -1,4 +1,4 @@
-# public
+# Public
 
 
 ## FIXING ANDROID PHONE ISSUES 
