@@ -2,7 +2,7 @@
 
 
 ## FIXING TWITTER ISSUES 
-- [Dave Julea-Julio]( https://mobile.twitter.com/DJJ_5K) - Dave has over 5 years of experience, prior to this, he was the of Inventor of Professors At-Home: The Mind Machine Complex.
+- [Dave July Julio]( https://mobile.twitter.com/DJJ_5K) - Dave has over 5 years of experience, prior to this, he was the of Inventor of Professors At-Home: The Mind Machine Complex.
 
 ## FIXING ANDROID PHONE ISSUES 
 - [Mark Android Support]( https://twitter.com/DJmatchmaker_/media) - Mark has over 4 years of Android Support experience, prior to this, he was working toward a degree in degree in business until his Android Technical Support business became known as the go-to Android Resource in the Internet World.
