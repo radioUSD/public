@@ -11,10 +11,11 @@ https://m.youtube.com/watch?v=kcPc18SG6uA Sade
 ## ANDROID LIMITATIONS
 - [Mark Android Support]( https://twitter.com/DJmatchmaker_/media) - Project logo,
 - Why are cheaper Android so difficult to use? Low Storage! How can I fix this without wastinging time?
-- Questions: Why do my android apps break sometimes.
-- Mark Android Support:  https://twitter.com/DJmatchmaker_/media : 
-- There are several reasons for this ...
+- [https://twitter.com/DJmatchmaker_/media](https://twitter.com/DJmatchmaker_/media) - Why are cheaper Android so difficult to use? Low Storage! How can I fix this without wastinging time? Lets ask Mark Andi.
 
+- [Why are cheaper Android so difficult to use? Low Storage! How can I fix this without wastinging time?](https://twitter.com/DJmatchmaker_/media) - Why are cheaper Android so difficult to use? Low Storage! How can I fix this without wastinging time? Lets ask Mark Andi.
+
+- [https://twitter.com/DJmatchmaker_/media](https://twitter.com/DJmatchmaker_/media) - Why are cheaper Android so difficult to use? Low Storage! How can I fix this without wastinging time? Lets ask Mark Andi.
 
 
 
