@@ -19,7 +19,7 @@
 # Welcome to My Back Yard
 
  [![A True Pioneer](https://github.com/radioUSD/public/blob/master/cyberexpatsGuide.jpg?raw=true)](https://github.com/sindresorhus/awesome#readme)
-> My Backyard Models: Have you ever Researched Cyber Security while on Magic Mountain's Waterslide.
+> My Backyard Models: Have you ever Researched Cyber Security while on an Airplane?
 
 
 
