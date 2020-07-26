@@ -2,7 +2,7 @@
 
 
 ## FIXING ANDROID PHONE ISSUES 
-- [Mark Android Support]( https://twitter.com/DJmatchmaker_/media) - Project logo,
+- [Mark Android Support]( https://twitter.com/DJmatchmaker_/media) - Mark has over 4 years of Android Support experience, prior to this, he was working on a college degree.
 - Why are cheaper Android so difficult to use? Low Storage! How can I fix this without wastinging time?
 - [https://twitter.com/DJmatchmaker_/media](https://twitter.com/DJmatchmaker_/media) - Why are cheaper Android so difficult to use? Low Storage! How can I fix this without wastinging time? Lets ask Mark Andi.
 
