@@ -1,6 +1,11 @@
 # Public
 
 
+## FIXING TWITTER ISSUES 
+- [Mark Android Support]( https://twitter.com/DJmatchmaker_/media) - Mark has over 4 years of Android Support experience, prior to this, he was working toward a degree in degree in business until his Android Technical Support business became known as the go-to Android Resource in the Internet World.
+
+
+
 ## FIXING ANDROID PHONE ISSUES 
 - [Mark Android Support]( https://twitter.com/DJmatchmaker_/media) - Mark has over 4 years of Android Support experience, prior to this, he was working toward a degree in degree in business until his Android Technical Support business became known as the go-to Android Resource in the Internet World.
 
