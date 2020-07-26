@@ -8,15 +8,12 @@
 
 - [Why are cheaper Android so difficult to use? Low Storage! How can I fix this without wastinging time?](https://twitter.com/DJmatchmaker_/media) - Why are cheaper Android so difficult to use? Low Storage! How can I fix this without wastinging time? Lets ask Mark Andi.
 
-- [https://twitter.com/DJmatchmaker_/media](https://twitter.com/DJmatchmaker_/media) - Why are cheaper Android so difficult to use? Low Storage! How can I fix this without wastinging time? Lets ask Mark Andi.
+- [https://twitter.com/DJmatchmaker_/media](https://twitter.com/DJmatchmaker_/media) - Why are cheaper Android so difficult to use? Low Storage! How can I fix this without wasting time? Lets ask Mark Andi.
 
 
 
 <img src="icon.png" align="right" />
-
-# Awesome Courtyard [![Pioneer](https://pbs.twimg.com/media/Edh-iIWXkAAMbbH?format=jpg&name=small)](https://github.com/sindresorhus/awesome#readme)
-> A curated list of awesome READMEs
-
+# Courtyard Pioneer [![Pioneer](https://pbs.twimg.com/media/Edh-iIWXkAAMbbH?format=jpg&name=small)](https://twitter.com/DJmatchmaker_/media)
 Elements in beautiful READMEs include, but are not limited to: images, screenshots, GIFs, text formatting, etc.
 
 ## Looking Out A Window
