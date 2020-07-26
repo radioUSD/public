@@ -1,14 +1,7 @@
 # public
 
-https://m.facebook.com/story.php?story_fbid=583198252569977&id=736061789832515
 
-
-- https://twitter.com/DJ_Miami_Main/status/1284898708648349696?s=19
-- Portland 07192020 - https://twitter.com/i/events/1284733959302049792
-https://m.youtube.com/watch?v=NYz8xs163YU Sade
-https://m.youtube.com/watch?v=kcPc18SG6uA Sade
-
-## ANDROID LIMITATIONS
+## FIXING ANDROID PHONE ISSUES 
 - [Mark Android Support]( https://twitter.com/DJmatchmaker_/media) - Project logo,
 - Why are cheaper Android so difficult to use? Low Storage! How can I fix this without wastinging time?
 - [https://twitter.com/DJmatchmaker_/media](https://twitter.com/DJmatchmaker_/media) - Why are cheaper Android so difficult to use? Low Storage! How can I fix this without wastinging time? Lets ask Mark Andi.
