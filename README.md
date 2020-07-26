@@ -3,7 +3,7 @@
 
 ## FIXING ANDROID PHONE ISSUES 
 - [Mark Android Support]( https://twitter.com/DJmatchmaker_/media) - Mark has over 4 years of Android Support experience, prior to this, he was working toward a degree in degree in business until his Android Technical Support business became known as the go-to Android Resource in the Internet World.
-- Why are cheaper Android so difficult to use? Low Storage! How can I fix this without wastinging time?
+
 - [https://twitter.com/DJmatchmaker_/media](https://twitter.com/DJmatchmaker_/media) - Why are cheaper Android so difficult to use? Low Storage! How can I fix this without wastinging time? Lets ask Mark Andi.
 
 - [Why are cheaper Android so difficult to use? Low Storage! How can I fix this without wastinging time?](https://twitter.com/DJmatchmaker_/media) - Why are cheaper Android so difficult to use? Low Storage! How can I fix this without wastinging time? Lets ask Mark Andi.
@@ -19,7 +19,7 @@
 
 Elements in beautiful READMEs include, but are not limited to: images, screenshots, GIFs, text formatting, etc.
 
-## Examples
+## Read this while you are waiting
 
 - [ai/size-limit](https://github.com/ai/size-limit#readme) - Project logo, clear description, screenshot, step-by-step installing instructions.
 - [aimeos/aimeos-typo3](https://github.com/aimeos/aimeos-typo3#readme) - Project logo. Clear description of what the project does. Demo screenshot. TOC for easy navigation. Easy installation and setup sections with screenshots. Links for further reading.
