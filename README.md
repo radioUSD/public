@@ -5,7 +5,7 @@
 - [Dave July Julio]( https://mobile.twitter.com/DJJ_5K) - Dave has over 5 years of experience, prior to this, he was the of Inventor of The Mind Machine Complex, to bring Professors to the At-Home World. 
 
 ## FIXING ANDROID PHONE ISSUES 
-- [Mark Android Support]( https://twitter.com/DJmatchmaker_/media) - Mark has over 4 years of Android Support experience, prior to this, he completed his Associates Degree from a Dual enrollement in the New Hampshire Private High Schools.
+- [Mark Android Support]( https://twitter.com/DJmatchmaker_/media) - Mark has over 4 years of Android Support experience, prior to this, he completed his Associates Degree from a dual enrollement inside New Hampshire Private High Schools.
 
 - [https://twitter.com/DJmatchmaker_/media](https://twitter.com/DJmatchmaker_/media) - Why are cheaper Android so difficult to use? Low Storage! How can I fix this without wastinging time? Lets ask Mark Andi.
 
