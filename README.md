@@ -18,7 +18,7 @@
 <img src="icon.png" align="right" />
 # Welcome to My Back Yard
 
- [![Pioneer](https://pbs.twimg.com/media/Edh-iIWXkAAMbbH?format=jpg&name=small)](https://github.com/sindresorhus/awesome#readme)
+ [![A True Pioneer](https://github.com/radioUSD/public/blob/master/cyberexpatsGuide.jpg?raw=true)](https://github.com/sindresorhus/awesome#readme)
 > My Backyard Models: Have you ever taken a ride on Magic Mountain's Waterslide.
 
 Elements in beautiful READMEs include, but are not limited to: images, screenshots, GIFs, text formatting, etc.
