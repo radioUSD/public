@@ -2,7 +2,7 @@
 
 
 ## FIXING TWITTER ISSUES 
-- [Dave July Julio]( https://mobile.twitter.com/DJJ_5K) - Dave has over 5 years of experience, prior to this, he was the of Inventor of The Mind Machine Complex, which brought Professors World At-Home. 
+- [Dave July Julio]( https://mobile.twitter.com/DJJ_5K) - Dave has over 5 years of experience, prior to this, he was the of Inventor of The Mind Machine Complex, which brought Professors World At-Home. Prior to inventing the MMI, Dave was a collaborator with  [GT]( https://georgiatech.edu)  . 
 
 ## FIXING ANDROID PHONE ISSUES 
 - [Mark Android Support]( https://twitter.com/DJmatchmaker_/media) - Mark has over 4 years of Android Support experience, prior to this, he completed his Associates Degree from a dual enrollement inside New Hampshire Private High Schools.
