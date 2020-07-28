@@ -9,7 +9,7 @@
 
 - [https://twitter.com/DJmatchmaker_/media](https://twitter.com/DJmatchmaker_/media) - Why are cheaper Android so difficult to use? Low Storage! How can I fix this without wastinging time? Lets ask Mark Andi.
 
-- [Why are cheaper Android so difficult to use? Low Storage! How can I fix this without wastinging time?](https://twitter.com/DJmatchmaker_/media) - Why are cheaper Android so difficult to use? Low Storage! How can I fix this without wastinging time? Lets ask Mark Andi.
+- [Why are cheaper Android so difficult to use? Low Storage! How can I fix this without wasting time?](https://twitter.com/DJmatchmaker_/media) - Why are cheaper Android so difficult to use? Low Storage! How can I fix this without wastinging time? Lets ask Mark Andi.
 
 - [https://twitter.com/DJmatchmaker_/media](https://twitter.com/DJmatchmaker_/media) - Why are cheaper Android's so difficult to use? Low Storage! How can I fix this without wastinging time? Lets ask Mark Andi.
 
