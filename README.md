@@ -7,7 +7,7 @@
 ## FIXING ANDROID PHONE ISSUES 
 - [Mark Android Support]( https://twitter.com/DJmatchmaker_/media) - Mark has over 4 years of Android Support experience, prior to this, he completed his Associates Degree from a dual enrollement inside New Hampshire Private High Schools.
 
-- [https://twitter.com/DJmatchmaker_/media](https://twitter.com/DJmatchmaker_/media) - Why are cheaper Android so difficult to use? Low Storage! How can I fix this without wastinging time? Lets ask Mark Andi.
+- [Mark Android's remarks on: under $50 Android Phone Computers](https://twitter.com/DJmatchmaker_/media) - Why are cheaper Android so difficult to use? Low Storage! How can I fix this without wastinging time? Lets ask Mark Andi. Lets ask Mark Andi.
 
 <img src="icon.png" align="right" />
 
