@@ -1,5 +1,12 @@
 # Public
 
+<img src="icon.png" align="right" />
+
+ [![A True Pioneer](https://github.com/radioUSD/public/blob/master/cyberexpatsGuide.jpg?raw=true)](https://github.com/sindresorhus/awesome#readme)
+> Backyard Models: Have you ever Researched Cyber Security while on an Airplane?
+
+
+
 
 ## FIXING TWITTER ISSUES 
 - [Dave July Julio]( https://mobile.twitter.com/DJJ_5K) - Dave has over 5 years of experience, prior to this, he was the of Inventor of The Mind Machine Interface, bringing Professors their world At-Home. Prior to inventing the MMI, Dave was an early contributor to programs at [GaTech.edu]( https://cyber.gatech.edu/)  . 
