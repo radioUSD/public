@@ -2,7 +2,10 @@
 
 <img src="icon.png" align="right" />
 
- [![A True Pioneer](https://github.com/radioUSD/public/blob/master/cyberexpatsGuide.jpg?raw=true   )](https://github.com/sindresorhus/awesome#readme)
+ [![A True Pioneer](
+https://github.com/radioUSD/public/blob/0caaefe515ca9fe6789ba37217c41857c8ff2356/Screenshot_20200731-195953.png
+
+  )](https://github.com/sindresorhus/awesome#readme)
 > Backyard Models: Have you ever Researched Cyber Security while on an Airplane?
 
 
