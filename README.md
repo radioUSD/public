@@ -1,5 +1,9 @@
 # Public
+Here's an image of a drag racer in action:
 
+![Drag Racing](https://github.com/radioUSD/public/blob/master/Screenshot_20200731-201225.png)
+
+Move along.
 
  [![A True Pioneer](https://github.com/radioUSD/public/blob/master/Screenshot_20200731-201225.png
 > Backyard Models: Have you ever Researched Cyber Security while on an Airplane?
