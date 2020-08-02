@@ -1,4 +1,6 @@
 # Public
+Ever been to El Paso? What would you like to explore there?
+
 
 [Bayesian Methods for Hackers ](https://nbviewer.jupyter.org/github/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/blob/master/Chapter1_Introduction/Ch1_Introduction_PyMC3.ipynb)
 
