@@ -4,7 +4,8 @@
 
 - https://github.com/agmarrugo/sensors-actuators/blob/master/notebooks/passive-and-active-sensors.md
 
-![Drag Racing](https://github.com/radioUSD/public/blob/master/Screenshot_20200801-180417.png)
+
+![Drag Racing](https://github.com/radioUSD/public/blob/master/Screenshot_20200802-173342.png)
 
 ![Drag Racing](https://github.com/radioUSD/public/blob/master/Screenshot_20200731-202142.png)
 
