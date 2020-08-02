@@ -18,6 +18,7 @@
 > Backyard Models: Have you ever Researched Cyber Security while on an Airplane?
 
 
-- Do you use this regularly? I can't imagine you using rudimentary front end.  But I imagine you are using someone similar to this.
+- Do you use this regularly? I can't imagine you using this rudimentary front end.  But perhaps similar?  Do you want to join us? You already have but would you be interested in branding this?
+
 
 - NASA Splash Down. 50mph Drop into the ocean.
