@@ -1,10 +1,8 @@
 # Public
 Ever been to El Paso? What would you like to explore there?
 
-![Drag Racing](https://github.com/radioUSD/public/blob/master/Screenshot_20200802-183732.png)
+![Drag Racing](https://github.com/radioUSD/public/blob/master/Screenshot_20200803-143904.png
 
-
-https://github.com/radioUSD/public/blob/master/Screenshot_20200802-183732.png
 
 
 [Bayesian Methods for Hackers ](https://nbviewer.jupyter.org/github/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/blob/master/Chapter1_Introduction/Ch1_Introduction_PyMC3.ipynb)
