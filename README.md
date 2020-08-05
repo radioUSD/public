@@ -7,9 +7,10 @@
 ![Drag Racing](https://github.com/radioUSD/public/blob/master/Screenshot_20200805-124046.png)
 
 
+TMT, Mack: Join Us
 
 
-Larre, bunch in this, a great student needs money for a windbreaker, umbrella.
+Larre, bunch in this: windbreaker, umbrella.
 
 ![Drag Racing](https://github.com/radioUSD/public/blob/master/Screenshot_20200805-122325.png)
 
