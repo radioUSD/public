@@ -7,7 +7,7 @@
 
 
 
-Larre, bunch in this, need: student needs money for a windbreaker, umbrella.
+Larre, bunch in this, a great student needs money for a windbreaker, umbrella.
 
 ![Drag Racing](https://github.com/radioUSD/public/blob/master/Screenshot_20200805-122325.png)
 
