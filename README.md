@@ -1,8 +1,7 @@
 # Public
 
 
-![Drag Racing](https://github.com/radioUSD/public/blob/master/Screenshot_20200805-124046.png)
-
+![Drag Racing](https://github.com/radioUSD/public/blob/master/Screenshot_20200805-124803.png)
 
 
 ![Drag Racing](https://github.com/radioUSD/public/blob/master/Screenshot_20200805-124046.png)
