@@ -1,8 +1,6 @@
 # Public
 
-![Drag Racing](https://github.com/radioUSD/public/blob/master/IMG_-hnfvux.jpg)
-
-
+![Drag Racing](https://github.com/radioUSD/public/blob/master/Screenshot_20200805-121450.png)
 
 ![Drag Racing](https://github.com/radioUSD/public/blob/master/IMG_-hnfvux.jpg)
 
